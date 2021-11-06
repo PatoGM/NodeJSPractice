@@ -1,2 +1,3 @@
 // ESM syntax is supported.
-export {}
+import fetch from "node-fetch";
+export {fetch};
